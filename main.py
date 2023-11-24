@@ -20,7 +20,7 @@ def send_notification():
     hour = now.hour
 
     # Set the URL of your static webpage with the message
-    message_url = "https://atoned44.github.io/protection/"
+    message_url = "https://atoned44.github.io/psalm91/"
     
     # Set the notification payload with the link to the message and other parameters
     payload = {
