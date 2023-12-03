@@ -25,7 +25,7 @@ def send_notification():
     # Set the notification payload with the link to the message and other parameters
     payload = {
         "k": pushsafer_access_key,
-        "m": f"Recite your personalised Pslam 91.",
+        "m": f"Pslam 91 & 150",
         "u": message_url,
         "s": "1",
     }
